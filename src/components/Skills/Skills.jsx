@@ -4,22 +4,22 @@ function Skills() {
 
     {
       title: "Frontend",
-      items: ["React JS, ", "HTML, ", "CSS, ", "JavaScript ."]
+      items: ["React JS," ,"HTML,", "CSS ", "JavaScript."]
     },
 
     {
       title: "Backend",
-      items: [" Java, " , " Spring Boot, ", " Python, ", " Django. "]
+      items: [" Java " , " Spring Boot", " Python ", " Django. "]
     },
 
     {
       title: "Database",
-      items: [" MySQL, ", " MongoDB, ", " REST APIs. "]
+      items: [" MySQL ", " MongoDB", " REST APIs. "]
     },
 
     {
       title: "Tools",
-      items: [" Git, ", " GitHub, ", " Docker, ", " VS Code. "]
+      items: [" Git ", " GitHub ", " Docker", " VS Code. "]
     }
 
   ];
