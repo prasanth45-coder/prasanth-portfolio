@@ -4,7 +4,7 @@ function Skills() {
 
     {
       title: "Frontend",
-      items: ["React JS," ,"HTML,", "CSS ", "JavaScript."]
+      items: ["React JS" ,"HTML", "CSS ", "JavaScript."]
     },
 
     {
